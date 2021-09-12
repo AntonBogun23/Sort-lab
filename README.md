@@ -12,8 +12,8 @@
 
 Для n = 10:
 
-<img src="C:\Users\79000\Desktop\2.png">
+![](2.png)
 
 Для n = 20:
 
-<img src="C:\Users\79000\Desktop\1.png">
+![](1.png)
